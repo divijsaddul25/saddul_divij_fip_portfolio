@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="ArrowUpRight" style="isolation: isolate">
+    <path id="Vector" d="M50,0V50H0V0Z" fill="none" style="isolation: isolate"/>
+    <path id="Vector-2" data-name="Vector" d="M0,25,25,0" transform="translate(12.5 12.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" style="isolation: isolate"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0H20.313V20.313" transform="translate(17.188 12.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" style="isolation: isolate"/>
+  </g>
+</svg>

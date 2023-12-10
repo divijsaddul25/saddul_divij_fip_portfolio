@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="LinkSimple" style="isolation: isolate">
+    <path id="Vector" d="M40,0V40H0V0Z" fill="none" style="isolation: isolate"/>
+    <path id="Vector-2" data-name="Vector" d="M.365,10.933a1.25,1.25,0,0,0,0,1.766,1.266,1.266,0,0,0,1.766,0L12.74,2.089A1.25,1.25,0,0,0,10.974.324Z" transform="translate(13.447 13.489)" fill="#fff" style="isolation: isolate"/>
+    <path id="Vector-3" data-name="Vector" d="M13.172,15.339A6.242,6.242,0,0,1,4.344,6.511L8.75,2.089A1.25,1.25,0,0,0,6.985.324L2.563,4.746A8.75,8.75,0,0,0,14.938,17.121L19.36,12.7a1.25,1.25,0,0,0,0-1.766,1.234,1.234,0,0,0-1.766,0Z" transform="translate(4.172 16.145)" fill="#fff" style="isolation: isolate"/>
+    <path id="Vector-4" data-name="Vector" d="M14.282.666a8.75,8.75,0,0,0-9.536,1.9L.324,6.985A1.25,1.25,0,0,0,2.089,8.751L6.511,4.344a6.242,6.242,0,0,1,8.828,8.828l-4.406,4.422a1.234,1.234,0,0,0,0,1.766,1.2,1.2,0,0,0,.875.375,1.249,1.249,0,0,0,.891-.375l4.422-4.422A8.751,8.751,0,0,0,14.282.666Z" transform="translate(16.146 4.171)" fill="#fff" style="isolation: isolate"/>
+  </g>
+</svg>
